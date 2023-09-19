@@ -4,15 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums = sorted(nums)
-        current = nums[0]
-        count = 1
-        for i in range(1,len(nums)):
-            if nums[i]==current:
-                count+=1
-                if count>len(nums)/2:
-                    return current
-            else:
-                current = nums[i]
-                count = 1
-        return current
+        nums.sort()
+        # if there's a majority element it would be in 
+        # the middle of the sorted array
+        return(nums[len(nums)//2])
