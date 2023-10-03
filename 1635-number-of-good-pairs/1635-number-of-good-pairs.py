@@ -9,9 +9,6 @@ class Solution(object):
         dic = {}
         for i in range(len(nums)):
             if nums[i] in dic:
-                # l = dic[nums[i]]
-                # l.append(i)
-                # dic[nums[i]]=l
                 (dic[nums[i]]).append(i)
             else:
                 dic[nums[i]]=[i]
