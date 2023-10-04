@@ -1,8 +1,9 @@
 class MyHashMap(object):
 
+    size = ((2**19)-1)
     def __init__(self):
-        self.keys = []
-        self.values = []
+        self.keys = [False]*MyHashMap.size
+        self.values = [None]*MyHashMap.size
 
     def put(self, key, value):
         """
@@ -10,11 +11,10 @@ class MyHashMap(object):
         :type value: int
         :rtype: None
         """
-        if key not in self.keys:
-            self.keys.append(key)
-            self.values.append(value)
-        else:
-            self.values[self.keys.index(key)]=value
+        i = key % MyHashMap.size
+        if not(self.keys[i]):
+            self.keys[i]=True
+        self.values[i]=value
         return self
 
     def get(self, key):
@@ -22,20 +22,18 @@ class MyHashMap(object):
         :type key: int
         :rtype: int
         """
-        if key not in self.keys:
-            return -1
-        return self.values[self.keys.index(key)]
+        i = key % MyHashMap.size
+        if self.keys[i]:
+            return self.values[i]
+        return -1
 
     def remove(self, key):
         """
         :type key: int
         :rtype: None
         """
-        if key not in self.keys:
-            return -1
-        i = self.keys.index(key)
-        self.keys.pop(i)
-        self.values.pop(i)
+        i = key % MyHashMap.size
+        self.keys[i]=False
         return self
 
 
