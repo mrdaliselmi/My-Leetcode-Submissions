@@ -1,6 +1,6 @@
 class MyHashMap(object):
 
-    size = ((2**19)-1)
+    size = ((2**17)-1)
     def __init__(self):
         self.keys = [False]*MyHashMap.size
         self.values = [None]*MyHashMap.size
