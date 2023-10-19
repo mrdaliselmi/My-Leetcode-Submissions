@@ -6,20 +6,22 @@ class Solution(object):
         :rtype: bool
         """
         n = len(s)
-        new_s = ""
-        for i in range(n):
-            if s[i]=='#':
-                new_s = "" if len(new_s)==0 else new_s[:-1]
+        s_stack = []
+        for i in s:
+            if i =='#':
+                if len(s_stack):
+                    s_stack.pop()
             else:
-                new_s+=s[i]
+                s_stack.append(i)
+        s = ''.join(s_stack)
         n = len(t)
-        new_t = ""
-        for i in range(n):
-            if t[i]=='#':
-                new_t = "" if len(new_t)==0 else new_t[:-1]
+        t_stack = []
+        for i in t:
+            if i =='#':
+                if len(t_stack):
+                    t_stack.pop()
             else:
-                new_t+=t[i]
-        if new_s==new_t:
-            return True
-        return False
-        
+                t_stack.append(i)
+        t = ''.join(t_stack)
+        print(s,t)
+        return s==t
