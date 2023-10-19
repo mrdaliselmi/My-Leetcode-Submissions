@@ -23,5 +23,4 @@ class Solution(object):
             else:
                 t_stack.append(i)
         t = ''.join(t_stack)
-        print(s,t)
         return s==t
