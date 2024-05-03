@@ -10,4 +10,3 @@ class Solution(object):
         del nums1[m::1]
         nums1+=nums2
         nums1.sort()
-        
