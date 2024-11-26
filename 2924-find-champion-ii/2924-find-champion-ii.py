@@ -9,8 +9,14 @@ class Solution(object):
         for edge in edges:
             if not(edge[1] in weak):
                 weak.add(edge[1])
-        res = []
+        found = False
+        res = -1
         for i in range(n):
             if not(i in weak):
-                res.append(i)
-        return -1 if len(res) != 1 else res[0]
+                if found:
+                    res = -1
+                    break
+                else:
+                    res=i
+                    found=True
+        return res
