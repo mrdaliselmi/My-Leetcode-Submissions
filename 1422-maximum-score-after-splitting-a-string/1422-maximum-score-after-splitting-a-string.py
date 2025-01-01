@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        zeros = 0
         ones = s.count("1")
+        zeros = 0
         res = 0 
-        for c in s:
-            if c == "1":
+        for i in range(len(s) - 1):
+            if s[i] == "1":
                 ones -= 1
             else:
                 zeros += 1
