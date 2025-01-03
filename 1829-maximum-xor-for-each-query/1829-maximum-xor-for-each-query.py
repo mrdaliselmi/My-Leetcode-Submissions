@@ -6,11 +6,10 @@ class Solution(object):
         :rtype: List[int]
         """
         current = 0
-        maximum = (2**maximumBit)-1
+        maximum = (1 << maximumBit) - 1
         n = len(nums)
-        answer = [0]*n
-        for i in range(len(nums)):
-            current^=nums[i]
-            print(current)
-            answer[n-i-1] = current ^ maximum
-        return answer
+        answer = []
+        for num in nums:
+            current ^= num
+            answer.append(current ^ maximum)
+        return answer[::-1]
