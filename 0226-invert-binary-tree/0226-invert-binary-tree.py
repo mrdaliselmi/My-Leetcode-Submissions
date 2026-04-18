@@ -11,13 +11,8 @@ class Solution(object):
         :rtype: Optional[TreeNode]
         """
         def invert(root):
-            if root == None:
-                return
-            invert(root.left)
-            invert(root.right)
-            left = root.left
-            right = root.right
-            root.right = left
-            root.left = right
+            if not(root):
+                return root
+            root.left, root.right = invert(root.right), invert(root.left)
             return root
         return invert(root)
