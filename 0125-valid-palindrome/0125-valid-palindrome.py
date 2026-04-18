@@ -4,10 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        l = s.lower()
-        res = []
-        for c in l:
-            if c.isalnum():
-                res.append(c)
-        res = ''.join(res)
-        return res[:len(res)//2] == res[-1:-(len(res)//2 + 1):-1]
+        cleaned = ""
+        for char in s:
+            if char.isalnum():
+                cleaned += char.lower()
+        for i in range(len(cleaned)/2):
+            if not(cleaned[i] == cleaned[len(cleaned)-i-1]):
+                return False
+        return True
