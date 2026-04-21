@@ -6,16 +6,15 @@
 class Solution(object):
     def middleNode(self, head):
         """
-        :type head: ListNode
-        :rtype: ListNode
+        :type head: Optional[ListNode]
+        :rtype: Optional[ListNode]
         """
-        dummy = ListNode()
-        dummy.next = head
         length = 0
-        while dummy.next:
-            length +=1
-            dummy = dummy.next
-        middle = round(length / 2)
-        for _ in range(int(middle)):
-            head = head.next
-        return head
+        temp = head
+        while temp:
+            temp=temp.next
+            length+=1
+        temp = head
+        for i in range(length//2):
+            temp=temp.next
+        return temp
