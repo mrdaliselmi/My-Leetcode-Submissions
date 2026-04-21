@@ -5,6 +5,8 @@ class Solution(object):
         :type newInterval: List[int]
         :rtype: List[List[int]]
         """
+        if not(len(intervals)):
+            return [newInterval]
         start = newInterval[0]
         end = newInterval[1]
         result = []
@@ -18,3 +20,4 @@ class Solution(object):
                 start = min(start, intervals[i][0])
                 end = max(end, intervals[i][1])
         result.append([start, end])
+        return result
