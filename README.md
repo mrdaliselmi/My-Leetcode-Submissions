@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
