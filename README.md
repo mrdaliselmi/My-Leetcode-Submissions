@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
@@ -129,4 +131,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
