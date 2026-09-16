@@ -4,10 +4,22 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        prefix = [1]
-        suffix = [1]
-        for i in range(len(nums)-1):
-            prefix.append(nums[i]*prefix[i])
-            suffix.append(nums[len(nums)-1-i]*suffix[i])
-        suffix = suffix[::-1]
-        return [prefix[i]*suffix[i] for i in range(len(nums))]
+        product = 1
+        nonZeroProduct = 1
+        zeroCount = 0
+        for num in nums:
+            if num !=0:
+                product *= num
+                nonZeroProduct *= num
+            else:
+                product =0
+                zeroCount += 1
+        res = []
+        for num in nums:
+                if num !=0:
+                    res.append(product//num)
+                elif zeroCount>1:
+                    res.append(0)
+                else:
+                    res.append(nonZeroProduct)
+        return res 
