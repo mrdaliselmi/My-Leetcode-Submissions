@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -169,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
