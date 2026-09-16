@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0057-insert-interval/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
@@ -164,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
