@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1861-rotating-the-box](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1861-rotating-the-box](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
