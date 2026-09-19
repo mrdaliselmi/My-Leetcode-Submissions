@@ -6,7 +6,7 @@ class Solution(object):
         """
         res = []
 
-        def dfs (curr, ignore, nums):
+        def dfs (curr, ignore):
             if len(ignore)==len(nums):
                 res.append(curr[:])
                 return
@@ -15,9 +15,9 @@ class Solution(object):
                 if i not in ignore:
                     curr.append(num)
                     ignore.add(i)
-                    dfs(curr, ignore, nums)
+                    dfs(curr, ignore)
                     curr.pop()
                     ignore.remove(i)
                 
-        dfs([], set(), nums)
+        dfs([], set())
         return res
