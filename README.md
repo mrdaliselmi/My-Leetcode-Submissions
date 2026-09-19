@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -196,4 +199,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
