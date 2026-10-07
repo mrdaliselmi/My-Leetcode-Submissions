@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -65,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -78,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -150,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -198,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
