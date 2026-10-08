@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0057-insert-interval/) | Medium |
+| [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -218,4 +221,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
