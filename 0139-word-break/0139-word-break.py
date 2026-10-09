@@ -5,15 +5,14 @@ class Solution(object):
         :type wordDict: List[str]
         :rtype: bool
         """
-        word_set = set(wordDict)
-        maxi = max(map(len, wordDict)) if wordDict else 0
+        dp = [False] * len(s)
+        dp.append(True)
 
-        dp = [True] + [False] * len(s)
-        for i in range(1, len(s) + 1):
-            for l in range(1, min(i, maxi) + 1):
-                if not dp[i - l]:
-                    continue
-                if s[i - l:i] in word_set:
-                    dp[i] = True
+        for i in range(len(s)-1, -1, -1):
+            for w in wordDict:
+                if i+len(w) <= len(s) and s[i: i+len(w)] == w:
+                    dp[i] = dp[i + len(w)]
+                if dp[i]:
                     break
-        return dp[-1]
+        
+        return dp[0]
