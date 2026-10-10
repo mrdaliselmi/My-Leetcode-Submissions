@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0078-subsets/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,4 +248,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
