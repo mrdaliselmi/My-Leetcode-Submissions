@@ -4,13 +4,14 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        left = 0
-        right = len(height)-1
+        left, right = 0, len(height)-1
         res = 0
-        while right > left:
-            res = max(res,(right-left)*min(height[right], height[left]))
-            if height[right]<height[left]:
-                right-=1
+        while left < right:
+            surface = min(height[left], height[right]) * (right - left)
+            res = max(res, surface)
+            if height[left] < height[right]:
+                left +=1
             else:
-                left+=1
+                right -=1
+        
         return res
