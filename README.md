@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
