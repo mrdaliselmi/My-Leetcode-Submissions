@@ -1,23 +1,34 @@
-import numpy as np
 class Solution(object):
     def exist(self, board, word):
-        """
-        :type board: List[List[str]]
-        :type word: str
-        :rtype: bool
-        """
-        def DFS(i, j, k):
-            if not (0 <= i < len(board)) or not (0 <= j < len(board[0])) or (board[i][j] != word[k]):
+        m, n = len(board), len(board[0])
+
+        def dfs(i, j, remaining, visited):
+            if board[i][j] != remaining[0]:
                 return False
-            if (k == len(word) - 1):
+
+            if len(remaining) == 1:
                 return True
-            tmp, board[i][j] = board[i][j], '1'
-            res = DFS(i+1, j, k+1) or DFS(i-1, j, k+1) or DFS(i, j+1, k+1) or DFS(i, j-1, k+1)
-            board[i][j] = tmp
-            return res
-        
-        for i in range(len(board)):
-            for j in range(len(board[0])):
-                if DFS(i, j, 0):
+
+            visited.add((i, j))
+
+            directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+            for di, dj in directions:
+                ni, nj = i + di, j + dj
+
+                if (
+                    0 <= ni < m
+                    and 0 <= nj < n
+                    and (ni, nj) not in visited
+                    and dfs(ni, nj, remaining[1:], visited)
+                ):
                     return True
+
+            visited.remove((i, j))
+            return False
+
+        for i in range(m):
+            for j in range(n):
+                if dfs(i, j, word, set()):
+                    return True
+
         return False
