@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -273,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
