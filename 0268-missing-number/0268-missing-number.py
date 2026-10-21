@@ -5,6 +5,4 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        ideal = ((n+1)*n)//2
-        total = sum(nums)
-        return ideal - total
+        return ((n+1)*n)//2 - sum(nums)
