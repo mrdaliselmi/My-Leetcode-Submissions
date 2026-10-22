@@ -1,6 +1,3 @@
-from collections import Counter, deque
-import heapq
-
 class Solution(object):
     def leastInterval(self, tasks, n):
         """
