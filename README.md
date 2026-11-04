@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0076-minimum-window-substring](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0076-minimum-window-substring](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
