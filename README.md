@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,4 +338,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0146-lru-cache/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
