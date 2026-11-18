@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Trie
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
