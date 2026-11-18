@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0621-task-scheduler](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0621-task-scheduler/) | Medium |
