@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0146-lru-cache](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0146-lru-cache/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
@@ -380,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
