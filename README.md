@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0310-minimum-height-trees](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0310-minimum-height-trees/) | Medium |
@@ -259,11 +261,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0310-minimum-height-trees/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0310-minimum-height-trees/) | Medium |
 ## Design
 | Problem Name | Difficulty |
