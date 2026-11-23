@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0133-clone-graph](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
+| [0113-path-sum-ii](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
