@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0394-decode-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0155-min-stack/) | Medium |
+| [0394-decode-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -390,4 +392,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0394-decode-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
