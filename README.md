@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0525-contiguous-array](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0525-contiguous-array](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0525-contiguous-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
