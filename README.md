@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0542-01-matrix](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1861-rotating-the-box](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0704-binary-search/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Matrix
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0621-task-scheduler](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -258,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
@@ -362,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/mrdaliselmi/My-Leetcode-Submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
